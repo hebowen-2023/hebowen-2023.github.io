@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://hebowen-2023.github.io</id>
+    <title>墨香故里醉诗情</title>
+    <updated>2024-02-25T12:59:20.882Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://hebowen-2023.github.io"/>
+    <link rel="self" href="https://hebowen-2023.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://hebowen-2023.github.io/images/avatar.png</logo>
+    <icon>https://hebowen-2023.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, 墨香故里醉诗情</rights>
+</feed>
