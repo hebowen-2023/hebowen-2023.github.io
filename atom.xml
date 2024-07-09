@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://hebowen-2023.github.io</id>
+    <title>墨香故里醉诗情</title>
+    <updated>2024-07-09T02:12:26.683Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://hebowen-2023.github.io"/>
+    <link rel="self" href="https://hebowen-2023.github.io/atom.xml"/>
+    <subtitle>沉迷学习，日渐消沉</subtitle>
+    <logo>https://hebowen-2023.github.io/images/avatar.png</logo>
+    <icon>https://hebowen-2023.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, 墨香故里醉诗情</rights>
+    <entry>
+        <title type="html"><![CDATA[TIOBE编程语言指数2024年7月排行榜公布：Python重回榜首]]></title>
+        <id>https://hebowen-2023.github.io/post/tiobe-bian-cheng-yu-yan-zhi-shu-2024-nian-7-yue-pai-xing-bang-gong-bu-python-chong-hui-bang-shou/</id>
+        <link href="https://hebowen-2023.github.io/post/tiobe-bian-cheng-yu-yan-zhi-shu-2024-nian-7-yue-pai-xing-bang-gong-bu-python-chong-hui-bang-shou/">
+        </link>
+        <updated>2024-07-08T06:55:32.000Z</updated>
+        <content type="html"><![CDATA[<p>根据TIOBE编程社区指数官网最新发布的2024年7月编程语言排行榜，Python位居榜首，占比16.12%，较上月上升2.70%。C语言位列第二，占比10.34%，较上月下跌0.46%。C语言排行第三，占比9.48%，较上月下跌2.08%。Java排名第四，占比8.59%，较上月下跌1.91%。C#排名第五，占比6.72%，较上月下跌0.15%。</p>
+<p>在前十名中，“万年前五位”的位置比较稳定。本月Rust 语言的排名从第17位跃升至第13位，在TIOBE指数中实现了历史性的突破。</p>
+<p>TIOBE的CEO Paul Jansen表示，尽管上升4个位次看起来变化不大，但这标志着Rust终于开始崭露头角，并且现在这种语言的发展速度越来越快。Rust社区正在不断壮大，包括第三方库和工具的数量也在增加。简而言之，Rust正在为进入TIOBE指数的前十名做好准备。</p>
+<p>值得注意的是，在编程语言排行榜上，除了“万年前五位”，其他位置经常变动。这反映出不同编程语言之间的竞争激烈，工程师们对于不同的编程语言有着不同的偏好和需求。</p>
+<p>以下是2024年7月TIOBE编程社区指数排行榜前二十名的详细情况：</p>
+<ol>
+<li>
+<p>Python</p>
+</li>
+<li>
+<p>C++</p>
+</li>
+<li>
+<p>C</p>
+</li>
+<li>
+<p>Java</p>
+</li>
+<li>
+<p>C#</p>
+</li>
+<li>
+<p>Objective-C</p>
+</li>
+<li>
+<p>PHP</p>
+</li>
+<li>
+<p>Fortran</p>
+</li>
+<li>
+<p>C++</p>
+</li>
+<li>
+<p>C</p>
+</li>
+</ol>
+<p>......</p>
+]]></content>
+    </entry>
+</feed>
